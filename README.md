@@ -2,14 +2,14 @@
 
 <h4 align="center">Pequena brincadeira</h4>
 
-## 📚 Funçôes
+## 📚 Funções
 
 Ações da lâmpada:
 
 - **Acender:** Acionado pelo botão correspondente;
 - **Apagar:** Acionado pelo botão correspondente;
 - **Quebrar:** Acionado ao clicar na lâmpada;
-- **Substituida:** Acionado pelo botão correspondente;
+- **Substituir:** Acionado pelo botão correspondente;
 ---
 
 ## 💼 Ferramentas utilizadas
