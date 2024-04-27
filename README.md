@@ -1,7 +1,3 @@
-# Lampada-JS
-Projeto Simples JavaScript - Ações da lampada: Acende, apaga, quebra e substitui
-
-
 # <h1 align="center">Lâmpada JavaScript</h1>
 
 <h4 align="center">Pequena brincadeira</h4>
